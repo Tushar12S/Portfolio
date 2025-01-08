@@ -1,21 +1,37 @@
-#Personal Portfolio Website 🌐
+# Personal Portfolio Website 🌐
 
-A modern and responsive portfolio website to showcase my professional journey, skills, and projects. Built with HTML, CSS, and JavaScript, this site serves as a digital resume, highlighting my aspirations as an aspiring Software Engineer and Product Manager.
+A modern, responsive portfolio website built to showcase my skills, projects, and professional experiences. Designed as a digital resume to highlight my journey as an aspiring Software Engineer and Product Manager.
 
-Key Features ✨
+## Features ✨
+- **Fully Responsive**: Optimized for all devices and screen sizes.
+- **Professional Layout**:
+  - **Home**: Welcoming introduction.
+  - **About**: Academic and professional overview.
+  - **Skills**: Highlights technical expertise.
+  - **Experience**: Showcases work history and contributions.
+  - **Projects**: Displays portfolio projects with GitHub links.
+  - **Contact**: Provides email, phone, and a functional contact form.
+- **Interactive Design**: Smooth scrolling, hover effects, and intuitive UI.
 
-Responsive Design: Adapts seamlessly across devices and screen sizes for an optimal user experience.
-Dynamic Navigation: A clean and intuitive navigation bar with smooth scrolling to various sections.
-Professional Sections:
-Home: Welcoming introduction and brief career overview.
-About: Academic background and professional aspirations.
-Skills: Categorized technical proficiencies with an interactive design.
-Experience: Highlights internships with key contributions and achievements.
-Projects: Showcases notable work with descriptions and GitHub links.
-Contact: Includes email, phone, address, and a functional contact form.
-Interactive Elements: Hover effects, scroll reveal animations, and user-friendly interfaces.
-Technologies Used 🛠️
 
-Frontend: HTML5, CSS3, JavaScript (ES6+)
-Design Tools: Box Icons, Google Fonts
-Responsive Layout: Media queries for mobile-first design.
+
+## Technologies Used 🛠️
+- **Frontend**: HTML5, CSS3, JavaScript (ES6+)
+- **Styling Tools**:
+  - Box Icons
+  - Google Fonts
+- **Responsive Design**: Media queries for mobile-first development.
+
+## Getting Started 🖥️
+
+To view or customize this project locally, follow these steps:
+
+### Prerequisites
+Ensure you have the following installed:
+- A modern browser (e.g., Chrome, Firefox)
+- Git (for cloning the repository)
+
+### Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/YourUsername/portfolio-website.git
